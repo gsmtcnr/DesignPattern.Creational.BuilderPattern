@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPattern.Creational.BuilderPattern.SubscriptionPackages", "DesignPattern.Creational.BuilderPattern.SubscriptionPackages\DesignPattern.Creational.BuilderPattern.SubscriptionPackages.csproj", "{FBB34188-6F30-4EE2-BC9C-BC5BE6409331}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern.Creational.BuilderPattern.ConsoleApp", "DesignPattern.Creational.BuilderPattern.ConsoleApp\DesignPattern.Creational.BuilderPattern.ConsoleApp.csproj", "{9826AAE8-6EE1-4FCD-8754-326A7336ADCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBB34188-6F30-4EE2-BC9C-BC5BE6409331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB34188-6F30-4EE2-BC9C-BC5BE6409331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB34188-6F30-4EE2-BC9C-BC5BE6409331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB34188-6F30-4EE2-BC9C-BC5BE6409331}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9826AAE8-6EE1-4FCD-8754-326A7336ADCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9826AAE8-6EE1-4FCD-8754-326A7336ADCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9826AAE8-6EE1-4FCD-8754-326A7336ADCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9826AAE8-6EE1-4FCD-8754-326A7336ADCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {792DE432-AF55-4534-9F46-AD31F423725B}
+	EndGlobalSection
+EndGlobal

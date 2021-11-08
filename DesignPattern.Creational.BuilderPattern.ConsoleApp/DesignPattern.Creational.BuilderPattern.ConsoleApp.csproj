@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DesignPattern.Creational.BuilderPattern.SubscriptionPackages\DesignPattern.Creational.BuilderPattern.SubscriptionPackages.csproj" />
+  </ItemGroup>
+
+</Project>
